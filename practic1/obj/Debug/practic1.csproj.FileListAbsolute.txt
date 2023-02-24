@@ -1,0 +1,7 @@
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\bin\Debug\practic1.exe.config
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\bin\Debug\practic1.exe
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\bin\Debug\practic1.pdb
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\obj\Debug\practic1.csproj.CoreCompileInputs.cache
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\obj\Debug\practic1.exe
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\obj\Debug\practic1.pdb
+C:\Users\student.ITLABS\Desktop\Практическая 1\practic1\obj\Debug\practic1.csproj.AssemblyReference.cache
